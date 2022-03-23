@@ -1,16 +1,17 @@
-### Hi there 👋
+# EEkebin | kebin
+> Electrical & Electronics Engineering Student with extensive knowledge in Server & Personal Computer Systems & Architecture, and Software Development.
 
-<!--
-**EEkebin/EEkebin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Walking definition of a full stack developer.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Here are some of the fields, languages, architectures, and technologies I am experienced in with regards to computers:
+<ul align="center">
+    <li>C/C++</li>
+    <li>C#</li>
+    <li>Verilog HDL</li>
+    <li>Java</li>
+    <li>Python</li>
+    <li>HTML+CSS</li>
+    <li>NodeJS</li>
+    <li>MIPS</li>
+    <li>Virtualization and Containerization Tech.</li>
+</ul>
