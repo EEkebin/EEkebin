@@ -11,6 +11,7 @@ Here are some of the fields, languages, architectures, and technologies I am exp
     <li>Java</li>
     <li>Python</li>
     <li>HTML+CSS</li>
+    <li>LUA</li>
     <li>NodeJS</li>
     <li>MIPS</li>
     <li>Virtualization and Containerization Tech.</li>
