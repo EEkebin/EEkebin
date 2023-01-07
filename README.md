@@ -1,5 +1,5 @@
 # kebin | EEkebin
-> Electrical & Electronics Engineering Student with extensive knowledge in Server & Personal Computer Systems & Architecture, and Software Development.
+> Software Engineering Student with extensive knowledge in Server & Personal Computer Systems & Architecture, and Software Development.
 
 Walking definition of a full stack developer.
 
