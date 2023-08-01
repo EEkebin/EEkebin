@@ -14,5 +14,6 @@ Here are some of the fields, languages, architectures, and technologies I am exp
     <li>Lua</li>
     <li>Node.js</li>
     <li>MIPS Assembly</li>
+    <li>LaTeX</li>
     <li>Virtualization & Containerization Technology</li>    
 </ul>
