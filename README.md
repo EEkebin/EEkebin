@@ -1,5 +1,5 @@
 # kebin | EEkebin
-> Junior Systems Engineer and Software Engineering Student with extensive knowledge in Server & Personal Computer Systems & Architecture, and Software Development.
+> Junior Systems Engineer | Software Engineering Student with extensive knowledge in Server & Personal Computer Systems & Architecture, and Software Development.
 
 Walking definition of a full stack developer.
 
